@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When we initialize the repository it shows up the head and the untracked 
+records of the file. we need to do this because it would help us to check 
+which files we have to work with.
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+
+ staging area is the intermediate area between the working direcory and 
+ repository, which is used to include the files one by one which needs
+ to be committed in one go in the form of bundle.
+
+ one can commit the different realted files alltogather in a single go.
