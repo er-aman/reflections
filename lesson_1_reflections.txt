@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you 
+see the bug that was introduced?
+After viewing the difference you get to know what has been changed while comparing two different files
+and thus you get to know the bug which was introduced
+and can change it by looking into the changed file.
+
+How could having easy access to the entire history of 
+a file make you a more efficient programmer in the long term?
+you get to know the features which have been removed 
+and on later stage if you wish to include those features
+you get the functionality of doing that from there.
+
+Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+becuase Git is focused to code segment only
+and its better to keep the track of all the 
+files related to code. while others have file based 
+saving thus they don't give it that much heed and treat 
+them as separate files.
